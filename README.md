@@ -1,3 +1,15 @@
+
+Тестовая страничка находиться по адресу http://127.0.0.1/index2.php
+Данніе из формі отправляються на http://127.0.0.1/data.php
+
+Склонируйте проєкт,откройте в консоли и запуститу командой
+docker-compose up -d
+
+
+
+
+
+
 #  LAMP stack built with Docker Compose
 
   
@@ -33,8 +45,7 @@ As of now, we have several different PHP versions. Use appropriate php version a
 ```shell
 git clone https://github.com/sprintcube/docker-compose-lamp.git
 cd docker-compose-lamp/
-cp sample.env .env
-// modify sample.env as needed
+
 docker-compose up -d
 // visit localhost
 ```
