@@ -36,15 +36,31 @@
         <div class="primary-navigation-wrapper">
             <header class="navbar" id="top" role="banner">
                 <div class="container">
-                    <div class="navbar-header">
-                        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
+<!--                    <div class="navbar-header">-->
+<!--                        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">-->
+<!--                            <span class="sr-only">Toggle navigation</span>-->
+<!--                            <span class="icon-bar"></span>-->
+<!--                            <span class="icon-bar"></span>-->
+<!--                            <span class="icon-bar"></span>-->
+<!--                        </button>-->
+<!--                    </div>-->
+
+                    <figure>
+                        <div class="slide-wrapper">
+                            <div class="inner">
+                                <div>
+                                    <img src="http://art-forms.com/assets/img/favicon.png" alt="" class="logo-mobile vertical-left">
+                                    <h1>Art-Forms Business School.</h1><br>
+                                    <div class="row">
+                                        <h2>Become a marketing guru</h2>
+                                    </div>
+
+
+                                </div>
+                            </div><!-- /.inner -->
+                        </div><!-- /.wrapper -->
+                    </figure>
+                    <nav class=" bs-navbar-collapse navbar-right" role="navigation">
                         <ul class="nav navbar-nav">
                             <li class="active">
                                 <a href="/">Visit Our Main Site</a>
@@ -54,16 +70,6 @@
 
                         </ul>
                     </nav><!-- /.navbar collapse-->
-                    <figure>
-                        <div class="slide-wrapper">
-                            <div class="inner">
-                                <div class="container">
-                                    <img src="http://art-forms.com/assets/img/favicon.png" alt="" class="logo-mobile vertical-left">   <h1>Art-Forms Business School.</h1><br>   <h2>Become a marketing guru</h2>
-
-                                </div>
-                            </div><!-- /.inner -->
-                        </div><!-- /.wrapper -->
-                    </figure>
 
                 </div><!-- /.container -->
             </header><!-- /.navbar -->
@@ -462,22 +468,5 @@
 <script src="scripts/custom.js"></script>
 
 
-
-
-<!--<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="../assets/js/jquery-2.1.0.min.js"></script>-->
-<!--<script type="text/javascript" src="../assets/js/jquery-migrate-1.2.1.min.js"></script>-->
-<!--<script type="text/javascript" src="../assets/bootstrap/js/bootstrap.min.js"></script>-->
-<!--<script type="text/javascript" src="../assets/js/selectize.min.js"></script>-->
-<!--<script type="text/javascript" src="../assets/js/owl.carousel.min.js"></script>-->
-<!--<script type="text/javascript" src="../assets/js/jquery.validate.min.js"></script>-->
-<!--<script type="text/javascript" src="../assets/js/jquery.placeholder.js"></script>-->
-<!--<!--<script type="text/javascript" src="../assets/js/jQuery.equalHeights.js"></script>-->-->
-<!--<script type="text/javascript" src="../assets/js/icheck.min.js"></script>-->
-<!--<script type="text/javascript" src="../assets/js/jquery.vanillabox-0.1.5.min.js"></script>-->
-<!--<!--<script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>-->-->
-<!---->
-<!--<script type="text/javascript" src="../microsite-assets/custom.js"></script>-->
-<!--<script src="/microsite-assets/form-app.js"></script>-->
-<!--<script src="/assets/jquery.cookieBar.js"></script>-->
 </body>
 </html>
